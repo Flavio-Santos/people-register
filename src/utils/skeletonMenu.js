@@ -1,13 +1,13 @@
 // export default class SkelettonMenu {
-    export const GoodAfternoon = [
+    export const SkeletonMenu = [
         {
             icon: 'home',
-            route: '',
+            route: '/',
             name: 'Início'
         },
         {
             icon: 'users',
-            route: '#users',
+            route: 'users',
             name: 'Usuários'
         }
     
@@ -15,4 +15,4 @@
 
 // }
 
-export default {GoodAfternoon}
+export default {SkeletonMenu}
